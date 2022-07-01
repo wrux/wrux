@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, Typescript, Next, CraftCMS
-- 🌱 I’m currently learning NextJS, GraphQL, Go
-- 👯 I’m looking to collaborate on building JAM stack websites
+- 🔭 I’m currently working on design systems with React, Typescript and ChakraUI
+- 👯 I’m looking to collaborate on building rad websites
