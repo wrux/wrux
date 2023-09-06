@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-- 🔭 I’m currently working on design systems with React, Typescript and NextJS
+- 🔭 I’m currently working on static websites, trying not to use so much JS and accessible design systems
 - 👯 I’m looking to collaborate on building rad websites
 
 ## 🧞 My Stats
