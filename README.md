@@ -1,9 +1,15 @@
 # Callum Bonnyman
 
-## 👋 Hi there
+## 👋 Hello There
 
-- 🔭 I’m currently working on static websites, trying not to use so much JS and accessible design systems
-- 👯 I’m looking to collaborate on building rad websites
+With a decade of experience as a remote web developer, I specialize in crafting content-rich websites that prioritize performance and accessibility. My toolkit includes proficiency in content management systems, React, static websites, TypeScript, and Storybook. My primary goal is to create exceptional user experiences while ensuring high availability and accessibility.
+
+Check out my side-projects
+
+- [Blog](https://callum.co.uk/)
+- [WRUX](https://wrux.com/)
+- [Manhole Gallery](https://manhole.gallery/)
+- [Perpetual Pizza](https://perpetual.pizza/)
 
 ## 🧞 My Stats
 
