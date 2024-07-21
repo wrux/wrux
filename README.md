@@ -1,6 +1,4 @@
-# Callum Bonnyman
-
-## 👋 Hello There
+# 🧞 Hello 
 
 Check out my side-projects
 
@@ -8,9 +6,3 @@ Check out my side-projects
 - [WRUX](https://wrux.com/)
 - [Manhole Gallery](https://manhole.gallery/)
 - [Perpetual Pizza](https://perpetual.pizza/)
-
-## 🧞 My Stats
-
-![WRUX's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrux&show_icons=true)
-
-![WRUX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrux&layout=compact)
