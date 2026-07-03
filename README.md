@@ -8,12 +8,12 @@ I work with teams that need dependable frontend delivery. I specialize in buildi
 ### 🚀 Projects & Labs
 *These are the products and personal sites I build to experiment, document, and explore.*
 
-* **[Banburyshire](https://banburyshire.com/)** - A local digital archive and resource hub.
-* **[kacet](https://kacet.com/)** - A web3 freelance job marketplace.
-* **[WRUX](https://wrux.com/)** - Homepage for my development work.
-* **[Manhole Gallery](https://manhole.gallery/)** - A visual, curated collection of urban utility covers.
-* **[Perpetual Pizza](https://perpetual.pizza/)** - It's just a pizza.
-* **[Personal Blog](https://callum.co.uk/)** - My personal travel blog.
+* **[banburyshire.com](https://banburyshire.com/)** - A local digital archive and resource hub.
+* **[kacet.com](https://kacet.com/)** - A web3 freelance job marketplace.
+* **[wrux.com](https://wrux.com/)** - Homepage for my development work.
+* **[callum.co.um](https://callum.co.uk/)** - My personal travel blog.
+* **[manhole.gallery](https://manhole.gallery/)** - A visual, curated collection of urban utility covers.
+* **[perpetual.pizza](https://perpetual.pizza/)** - It's just a pizza.
 
 ---
 
