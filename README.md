@@ -8,6 +8,7 @@ I work with teams that need dependable frontend delivery. I specialize in buildi
 ### 🚀 Projects & Labs
 *These are the products and personal sites I build to experiment, document, and explore.*
 
+* **[blot.tools](https://blot.tools/)** - A privacy focused zero-access encrypted AI agent. 
 * **[banburyshire.com](https://banburyshire.com/)** - A local digital archive and resource hub
 * **[kacet.com](https://kacet.com/)** - A web3 freelance job marketplace
 * **[wrux.com](https://wrux.com/)** - Homepage for my development work
