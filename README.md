@@ -19,6 +19,6 @@ I work with teams that need dependable frontend delivery. I specialize in buildi
 ---
 
 ### 🛠 Tech Stack & Expertise
-*   **Core:** React, TypeScript, Astro Modern CSS/Tailwind
-*   **Focus:** Performance, maintainability, and clean UI patterns
+*   **Core:** React, TypeScript, Astro and Modern CSS/Tailwind
+*   **Focus:** Performance, maintainability and clean UI patterns
 *   **Availability:** Currently [open/limited] for new freelance projects
